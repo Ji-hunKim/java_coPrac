@@ -2,6 +2,7 @@ package programmers;
 
 public class No6 {
 	public int[] solution(int[] lottos, int[] win_nums) {
+		//로또 
         int temp = 0;
         int zero = 0;
         for(int i : lottos){

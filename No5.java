@@ -1,8 +1,8 @@
 package programmers;
 
 public class No5 {
-  //
     public String solution(String new_id) {
+    	//문자열 아이
       String answer = "";
       String step1 = new_id.toLowerCase();
 
@@ -59,4 +59,4 @@ public class No5 {
       return answer;
     }
   }
-}
+
